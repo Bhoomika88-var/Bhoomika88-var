@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Bhoomika Varshney
-- 👀 I’m interested in ..learning advancved tools like power bi , my sql, advanced excel and basic python
-- 🌱 I’m currently learning Data Analyst
+- 👀 I’m interested in learning advancved tools like Power BI , My Sql, Advanced Excel and Python 
+- 🌱 I’m currently a Data Analyst
+- 
+- 
 - 
 -
 <!---
